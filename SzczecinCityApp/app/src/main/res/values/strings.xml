@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">SzczecinCityApp</string>
+
+    <string name="park_name_1">Park Kasprowicza</string>
+    <string name="park_des_1">Beautiful, green, interesting place, you can have a nice walk and rest here. You must visit this place</string>
+    <string name="park_name_2">Puszcza Bukowa (Beech Forest)</string>
+    <string name="park_des_2">Beautiful! Full of easy to navigate trails - many surprises like mill ruins or old graves… And really big ! worth venturing in to !</string>
+    <string name="park_name_3">Jezioro Szmaragdowe (Emerald Lake)</string>
+    <string name="park_des_3">A beautiful lake located on the outskirts of Szczecin. Perfect for strolling and picnics</string>
+
+    <string name="coffee_name_1">Bajgle Króla Jana</string>
+    <string name="coffee_des_1">Very nice spot with delicious food. Perfect for breakfast. Great variations of coffee, from all around the world. Worth trying!</string>
+    <string name="coffee_name_2">Café 22</string>
+    <string name="coffee_des_2">A must go to place if you want the best possible view in Szczesin. It is a popular place and on some days, there is a line of people waiting to be seated. The prices are a little higher than on the ground, but they are still reasonable. The view is well worth it.</string>
+    <string name="coffee_name_3">Alternatywnie</string>
+    <string name="coffee_des_3">Very good drip coffee and cappuccino. everyone should also try the cakes offered on site. Very nice service.</string>
+
+    <string name="restaurant_name_1">Tokyo Sushi n Grill</string>
+    <string name="restaurant_des_1">tasty sushi, just as good hot dishes. ingredients fresh, and all in all we are able to recommend. Service pleasant</string>
+    <string name="restaurant_name_2">Park Restaurant&amp;Cafe</string>
+    <string name="restaurant_des_2">The food is mostly traditional Polish food, really good in taste - also really nice service. Not many (almost none) options for vegetarians and no option for vegan. Good choice list of wines.</string>
+    <string name="restaurant_name_3">Zakotwiczony oysters&amp;more</string>
+    <string name="restaurant_des_3">Small and cozy, very nice and very tasty at the same time!</string>
+
+    <string name="category_1">Coffee Shops</string>
+    <string name="category_2">Parks</string>
+    <string name="category_3">Restaurants</string>
+    <string name="city_name">Szczecin</string>
+    <string name="back">Back</string>
+
+</resources>
